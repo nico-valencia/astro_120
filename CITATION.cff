@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code or plots, please cite it as below."
+authors:
+- family-names: "Valencia"
+  given-names: "Nicolas"
+
+title: "Astro 120 Lab 2 Codes And Images"
+version: 1.0.0
+date-released: 2024-10-08
+url: "https://github.com/nico-valencia/astro_120"
